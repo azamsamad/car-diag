@@ -33,8 +33,8 @@ Follow these steps to set up the project locally:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/azamsamad/vehicle-diagnostic-assistant.git
-cd vehicle-diagnostic-assistant
+git clone https://github.com/azamsamad/car-diag.git
+cd car-diag
 ```
 
 2. Install Dependencies
