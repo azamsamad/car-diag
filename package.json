@@ -4,7 +4,10 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "client": "npm run dev --prefix client/ai-mech",
+    "build": "npm install --prefix client/ai-mech && npm run build --prefix client/ai-mech"
   },
   "keywords": [],
   "author": "",
