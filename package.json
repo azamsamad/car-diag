@@ -6,8 +6,7 @@
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js",
-    "client": "npm run dev --prefix client/ai-mech",
-    "build": "npm install --prefix client/ai-mech && npm run build --prefix client/ai-mech"
+    "client": "npm run dev --prefix client/ai-mech"
   },
   "keywords": [],
   "author": "",
