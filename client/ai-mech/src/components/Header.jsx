@@ -68,7 +68,7 @@ const Header = () => {
           {
             <nav>
               <Link
-                to="https://github.com/FaheemOnHub/ai-mechanic"
+                to="https://github.com/azamsamad"
                 target="blank"
               >
                 <Github />
